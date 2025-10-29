@@ -1,0 +1,26 @@
+{
+  "Calibration": {
+    "OffsetX": 80,
+    "OffsetY": 120,
+    "ContentW": 1000,
+    "ContentH": 600
+  },
+  "Events": [
+    {
+      "Type": "MouseClick",
+      "X": 300,
+      "Y": 200,
+      "DelayMs": 800
+    },
+    {
+      "Type": "KeyDown",
+      "VkCode": 13,
+      "DelayMs": 200
+    },
+    {
+      "Type": "KeyUp",
+      "VkCode": 13,
+      "DelayMs": 200
+    }
+  ]
+}

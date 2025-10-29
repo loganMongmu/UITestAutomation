@@ -1,0 +1,10 @@
+.vs/
+.idea/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.ide
+publish/
